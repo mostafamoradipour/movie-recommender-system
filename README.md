@@ -1,5 +1,7 @@
 # Movie Recommender System
 
+![content-based discovery workflow](docs/workflow.svg)
+
 A notebook-based movie recommendation project that explores content-based recommendations using textual movie metadata. The project uses TF-IDF features and cosine similarity to identify movies with similar descriptions and attributes.
 
 ## Notebooks
